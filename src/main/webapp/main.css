@@ -10,3 +10,10 @@
 pre {
     width: 80%;
 }
+#clickable {
+     text-align: center;
+ }
+
+#table {
+    text-align: left;
+}
